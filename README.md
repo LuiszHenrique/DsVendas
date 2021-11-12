@@ -21,9 +21,9 @@
 
 This project was developed using the following technologies:
 
-- [React](https://reactjs.org)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Css/BootStrap](https://getbootstrap.com/)
+- <img align="center" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> [React](https://reactjs.org)
+- <img align="center" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> [TypeScript](https://www.typescriptlang.org/)
+- <img align="center" height="15" width="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> [Css/BootStrap](https://getbootstrap.com/)
 
 ## 🚀 Getting started
 
