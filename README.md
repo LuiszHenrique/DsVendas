@@ -29,7 +29,7 @@ Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/LuiszHenrique/letmeask.git
-$ cd letmeask
+$ cd DsVendas
 ```
 
 Follow the steps below:
